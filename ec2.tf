@@ -6,6 +6,6 @@ resource "aws_instance" "web" {
   }
 
   tags = {
-    Name = "HelloWorldwelcome"
+    Name = "Terraform-cloud"
   }
 }
